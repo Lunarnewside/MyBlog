@@ -1,2 +1,0 @@
-# MyBlog
-Learning project
